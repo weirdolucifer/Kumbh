@@ -21,4 +21,4 @@ The globally used google-map is a very interactive application which provides an
 * [**Nilotpal Pramanik**](https://github.com/goodday451999)
 * [**Ankit Kumar**](https://github.com/)
 * [**Neeraj Mishra**](https://github.com/)
-* [**Prataya Kumar**](https://github.com/)
+* [**Pratyay Kumar**](https://github.com/)
