@@ -3,3 +3,15 @@ The globally used google-map is a very interactive application which provides an
 
 # Workflow
 <img src="https://i.imgur.com/PL153Fr.jpg" width="860" height="450"/>
+
+# Screenshots
+
+<img src="https://i.imgur.com/AVsD0lj.png" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/HzvJUBR.png" width="290" height="500" hspace="50"/>
+
+<img src="https://i.imgur.com/9kSFXjG.png" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/0Ql3Pb1.png" width="290" height="500" hspace="50"/>
+
+<img src="https://i.imgur.com/e8oRijS.png" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/R6Iayn7.png" width="290" height="500" hspace="50"/>
+
+<img src="https://i.imgur.com/YARRF5P.png" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/5Dom4mX.png" width="290" height="500" hspace="50"/>
+
+<img src="https://i.imgur.com/NxBdz2H.jpg" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/TQrNChX.png" width="290" height="500" hspace="50"/>
