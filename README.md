@@ -15,3 +15,10 @@ The globally used google-map is a very interactive application which provides an
 <img src="https://i.imgur.com/YARRF5P.png" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/5Dom4mX.png" width="290" height="500" hspace="50"/>
 
 <img src="https://i.imgur.com/NxBdz2H.jpg" width="290" height="500" hspace="50"/><img src="https://i.imgur.com/TQrNChX.png" width="290" height="500" hspace="50"/>
+
+# Team
+* [**Avinash Yadav**](https://github.com/Weirdolucifer)
+* [**Nilotpal Pramanik**](https://github.com/goodday451999)
+* [**Ankit Kumar**](https://github.com/)
+* [**Neeraj Mishra**](https://github.com/)
+* [**Prataya Kumar**](https://github.com/)
