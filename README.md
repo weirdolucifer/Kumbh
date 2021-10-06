@@ -19,6 +19,6 @@ The globally used google-map is a very interactive application which provides an
 # Team
 * [**Avinash Yadav**](https://github.com/Weirdolucifer)
 * [**Nilotpal Pramanik**](https://github.com/goodday451999)
-* [**Ankit Kumar **](https://github.com/TanishQ10)
+* [**Ankit Kumar**](https://github.com/TanishQ10)
 * [**Neeraj Mishra**](https://github.com/)
 * [**Pratyay Kumar**](https://github.com/)
